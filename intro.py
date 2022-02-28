@@ -11,7 +11,7 @@
     To play, click buttons to drop sonar device.
     The sonar reports the distance to the treasure.
 '''
-#huleugh
+#huleug
 import math
 import random
 import tkinter
